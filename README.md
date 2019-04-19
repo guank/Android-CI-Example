@@ -1,2 +1,4 @@
-# Android-CI-Example
-test for teamcity ci
+Android_CI_Example
+==================
+
+Sample Anrdoid application for CI with TeamCity
